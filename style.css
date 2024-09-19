@@ -1,0 +1,29 @@
+    :root{
+    --fundo:black;
+--cartao-frente:pink;
+--cartao-verso: gold;
+--branco: white;
+--preto: black;
+--destaque:#cf4acf;
+    }
+
+    body{
+        background-color: aqua(--fundo);
+    }
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: brown(--preto);
+    color: blue(--branco);
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+    }
